@@ -1,2 +1,2 @@
 # c++-init
-My personal c++ project structures, using cmake.
+My personal c++ project structure using cmake.
